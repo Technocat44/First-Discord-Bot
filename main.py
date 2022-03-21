@@ -1,3 +1,3 @@
 import discord
 
-# create an instance of a client, The way we connect to discord
+# create an instance of a client, The way we connect to discord. 
